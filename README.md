@@ -143,3 +143,23 @@ Proprietäre Software - Copyright (c) 2025 Asinas Esber
 
 Diese Software ist urheberrechtlich geschützt. Jegliche Nutzung, Vervielfältigung oder Verteilung ohne ausdrückliche schriftliche Genehmigung ist untersagt. Zuwiderhandlungen werden rechtlich verfolgt.
 
+## 📸 Screenshots
+
+#### Farbgebung der Buchungen:
+- **Grau:** Buchung **ausstehend** (Pending)  
+- **Hellblau:** Buchung **abgeschlossen** (Completed)  
+- **Dunkelblau:** Buchung **bestätigt** (Confirmed) 
+
+Hier sind einige Screenshots der Benutzeroberfläche, die die verschiedenen Ansichten (Tages-, Wochen- und Monatsansicht) veranschaulichen:
+
+![image](https://github.com/user-attachments/assets/b5346902-235e-4712-b66a-eed706fff84a)
+
+![image](https://github.com/user-attachments/assets/bed141b9-b593-4273-8105-816417804c82)
+
+![image](https://github.com/user-attachments/assets/d1e6030e-a3f3-48a5-87be-03afb01bf528)
+
+
+
+
+
+
